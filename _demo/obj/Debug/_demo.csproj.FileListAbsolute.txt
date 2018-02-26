@@ -1,0 +1,16 @@
+D:\_CS\_____\sample\_\_demo\obj\Debug\_demo.csprojResolveAssemblyReference.cache
+D:\_CS\_____\sample\_\_demo\bin\Debug\_demo.exe
+D:\_CS\_____\sample\_\_demo\bin\Debug\_demo.pdb
+D:\_CS\_____\sample\_\_demo\bin\Debug\Core.dll
+D:\_CS\_____\sample\_\_demo\bin\Debug\Newtonsoft.Json.dll
+D:\_CS\_____\sample\_\_demo\bin\Debug\Core.pdb
+D:\_CS\_____\sample\_\_demo\obj\Debug\_demo.exe
+D:\_CS\_____\sample\_\_demo\obj\Debug\_demo.pdb
+G:\_CS\_____\sample\_\_demo\bin\Debug\_demo.exe
+G:\_CS\_____\sample\_\_demo\bin\Debug\_demo.pdb
+G:\_CS\_____\sample\_\_demo\bin\Debug\Core.dll
+G:\_CS\_____\sample\_\_demo\bin\Debug\Newtonsoft.Json.dll
+G:\_CS\_____\sample\_\_demo\bin\Debug\Core.pdb
+G:\_CS\_____\sample\_\_demo\obj\Debug\_demo.csproj.CoreCompileInputs.cache
+G:\_CS\_____\sample\_\_demo\obj\Debug\_demo.exe
+G:\_CS\_____\sample\_\_demo\obj\Debug\_demo.pdb

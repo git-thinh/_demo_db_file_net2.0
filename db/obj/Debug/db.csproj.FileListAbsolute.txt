@@ -1,0 +1,15 @@
+G:\_\db\obj\Debug\ResolveAssemblyReference.cache
+G:\_\Debug\db.exe
+G:\_\Debug\db.pdb
+G:\_\db\obj\Debug\db.exe
+G:\_\db\obj\Debug\db.pdb
+D:\_CS\_____\sample\_\db\obj\Debug\db.exe
+D:\_CS\_____\sample\_\db\obj\Debug\db.pdb
+D:\_CS\_____\sample\_\Debug\db.exe
+D:\_CS\_____\sample\_\Debug\db.pdb
+G:\_CS\_____\sample\_\Debug\db.exe
+G:\_CS\_____\sample\_\Debug\db.pdb
+G:\_CS\_____\sample\_\db\obj\Debug\db.csprojResolveAssemblyReference.cache
+G:\_CS\_____\sample\_\db\obj\Debug\db.csproj.CoreCompileInputs.cache
+G:\_CS\_____\sample\_\db\obj\Debug\db.exe
+G:\_CS\_____\sample\_\db\obj\Debug\db.pdb

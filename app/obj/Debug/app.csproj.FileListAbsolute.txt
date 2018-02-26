@@ -1,0 +1,15 @@
+G:\_\Debug\app.exe
+G:\_\Debug\app.pdb
+G:\_\app\obj\Debug\ResolveAssemblyReference.cache
+G:\_\app\obj\Debug\app.exe
+G:\_\app\obj\Debug\app.pdb
+D:\_CS\_____\sample\_\Debug\app.exe
+D:\_CS\_____\sample\_\Debug\app.pdb
+D:\_CS\_____\sample\_\app\obj\Debug\app.exe
+D:\_CS\_____\sample\_\app\obj\Debug\app.pdb
+G:\_CS\_____\sample\_\Debug\app.exe
+G:\_CS\_____\sample\_\Debug\app.pdb
+G:\_CS\_____\sample\_\app\obj\Debug\app.csprojResolveAssemblyReference.cache
+G:\_CS\_____\sample\_\app\obj\Debug\app.csproj.CoreCompileInputs.cache
+G:\_CS\_____\sample\_\app\obj\Debug\app.exe
+G:\_CS\_____\sample\_\app\obj\Debug\app.pdb

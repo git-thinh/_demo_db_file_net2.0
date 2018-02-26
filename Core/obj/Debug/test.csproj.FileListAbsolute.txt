@@ -1,0 +1,11 @@
+D:\_CS\_____\sample\_\DLL\Core.dll
+D:\_CS\_____\sample\_\DLL\Core.pdb
+D:\_CS\_____\sample\_\Core\obj\Debug\Core.dll
+D:\_CS\_____\sample\_\Core\obj\Debug\Core.pdb
+D:\_CS\_____\sample\_\Core\obj\Debug\test.csprojResolveAssemblyReference.cache
+G:\_CS\_____\sample\_\DLL\Core.dll
+G:\_CS\_____\sample\_\DLL\Core.pdb
+G:\_CS\_____\sample\_\Core\obj\Debug\test.csprojResolveAssemblyReference.cache
+G:\_CS\_____\sample\_\Core\obj\Debug\test.csproj.CoreCompileInputs.cache
+G:\_CS\_____\sample\_\Core\obj\Debug\Core.dll
+G:\_CS\_____\sample\_\Core\obj\Debug\Core.pdb

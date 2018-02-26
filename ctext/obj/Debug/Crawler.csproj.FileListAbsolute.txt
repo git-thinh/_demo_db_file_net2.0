@@ -1,0 +1,5 @@
+G:\_\Debug\Crawler.exe
+G:\_\Debug\Crawler.pdb
+G:\_\Crawler\obj\Debug\ResolveAssemblyReference.cache
+G:\_\Crawler\obj\Debug\Crawler.exe
+G:\_\Crawler\obj\Debug\Crawler.pdb

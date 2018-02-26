@@ -1,0 +1,5 @@
+G:\_\db\obj\Debug\ResolveAssemblyReference.cache
+G:\_\Debug\db.exe
+G:\_\Debug\db.pdb
+G:\_\db\obj\Debug\db.exe
+G:\_\db\obj\Debug\db.pdb

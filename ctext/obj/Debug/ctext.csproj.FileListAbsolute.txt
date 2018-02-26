@@ -1,0 +1,16 @@
+G:\_\ctext\obj\Debug\ResolveAssemblyReference.cache
+G:\_\Debug\ctext.exe
+G:\_\Debug\ctext.pdb
+G:\_\ctext\obj\Debug\ctext.exe
+G:\_\ctext\obj\Debug\ctext.pdb
+D:\_CS\_____\sample\_\Debug\ctext.exe
+D:\_CS\_____\sample\_\Debug\ctext.pdb
+D:\_CS\_____\sample\_\ctext\obj\Debug\ctext.csprojResolveAssemblyReference.cache
+D:\_CS\_____\sample\_\ctext\obj\Debug\ctext.exe
+D:\_CS\_____\sample\_\ctext\obj\Debug\ctext.pdb
+G:\_CS\_____\sample\_\Debug\ctext.exe
+G:\_CS\_____\sample\_\Debug\ctext.pdb
+G:\_CS\_____\sample\_\ctext\obj\Debug\ctext.csprojResolveAssemblyReference.cache
+G:\_CS\_____\sample\_\ctext\obj\Debug\ctext.csproj.CoreCompileInputs.cache
+G:\_CS\_____\sample\_\ctext\obj\Debug\ctext.exe
+G:\_CS\_____\sample\_\ctext\obj\Debug\ctext.pdb

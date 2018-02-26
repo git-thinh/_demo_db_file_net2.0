@@ -1,0 +1,15 @@
+G:\_\Debug\Crawler.exe
+G:\_\Debug\Crawler.pdb
+G:\_\Crawler\obj\Debug\ResolveAssemblyReference.cache
+G:\_\Crawler\obj\Debug\Crawler.exe
+G:\_\Crawler\obj\Debug\Crawler.pdb
+D:\_CS\_____\sample\_\Debug\Crawler.exe
+D:\_CS\_____\sample\_\Debug\Crawler.pdb
+D:\_CS\_____\sample\_\Crawler\obj\Debug\Crawler.exe
+D:\_CS\_____\sample\_\Crawler\obj\Debug\Crawler.pdb
+G:\_CS\_____\sample\_\Debug\Crawler.exe
+G:\_CS\_____\sample\_\Debug\Crawler.pdb
+G:\_CS\_____\sample\_\Crawler\obj\Debug\crawler.csprojResolveAssemblyReference.cache
+G:\_CS\_____\sample\_\Crawler\obj\Debug\crawler.csproj.CoreCompileInputs.cache
+G:\_CS\_____\sample\_\Crawler\obj\Debug\Crawler.exe
+G:\_CS\_____\sample\_\Crawler\obj\Debug\Crawler.pdb
